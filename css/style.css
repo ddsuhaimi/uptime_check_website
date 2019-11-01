@@ -1,0 +1,77 @@
+body {
+  background: #B9C6CC;
+}
+.left-section {
+  background: #C2D1D7;
+}
+
+.right-section {
+  background: #FFFFFF;
+}
+h1.title-text {
+  line-height: 95%;
+}
+.container-left {
+  width: 69%;
+  margin-right: auto;
+  margin-left: auto;
+  /* top: 50%; */
+  transform: translateY(35%);
+}
+
+.container-right {
+  width: 95%;
+  margin: auto;
+}
+.btn-go, .btn-get-alert{
+  background: #3E5085;
+}
+
+.btn-go:hover, .btn-get-alert:hover{
+  background: rgb(29, 45, 94);
+}
+
+.nav-item,.btn-get-alert {
+  font-size: small;
+}
+
+.site-icon li {
+  padding: 10px;
+  font-size: 1.5rem;
+  box-shadow: 0 0 2px 0px #000;
+  border-radius: 10px;
+}
+.site-info {
+  margin-top: 1em;
+}
+.site-name {
+  font-weight: bold;
+}
+.site-url{
+  font-size: small;
+}
+
+.fa-google{
+  color: #db3236;
+}
+
+.fa-facebook{
+  color: #3C5A99;
+}
+
+.fa-twitter{
+  color: #1DA1F2;
+}
+
+.fa-youtube{
+  color: #c4302b ;
+}
+
+.fa-reddit{
+  color: #FF5700;
+}
+
+.fa-linkedin{
+  color: #0077B5;
+}
+
